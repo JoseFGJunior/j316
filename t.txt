@@ -1,0 +1,11 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 961E-8E2D
+
+ Pasta de C:\dev\py\teste
+
+30/06/2022  13:43    <DIR>          .
+30/06/2022  13:43    <DIR>          ..
+30/06/2022  13:43                 0 t.txt
+30/06/2022  13:42    <DIR>          venv_teste
+               1 arquivo(s)              0 bytes
+               3 pasta(s)   204.140.814.336 bytes dispon°veis
